@@ -19,3 +19,7 @@
 .logo {
   background: url("../img/logo_big.jpg") no-repeat scroll 0px 50% / cover transparent;
 }
+
+nav {
+  margin-top: 20px;
+}
