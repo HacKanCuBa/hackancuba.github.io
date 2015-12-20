@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/hackan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hackan.xyz
+  * I am hackan (https://keybase.io/hackan) on keybase.
+  * I have a public key with fingerprint B166 1C3C 8B3D 73D6 0149  4C25 ECF0 573B 1C9B 59E8
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01019ba205a587360a4efe43b6012cb82259a86a9b88e73468949bfdd00b135f8f440a",
+            "fingerprint": "b1661c3c8b3d73d601494c25ecf0573b1c9b59e8",
+            "host": "keybase.io",
+            "key_id": "ecf0573b1c9b59e8",
+            "kid": "01019ba205a587360a4efe43b6012cb82259a86a9b88e73468949bfdd00b135f8f440a",
+            "uid": "099c7b5d36d2ae9f4387a00949a80119",
+            "username": "hackan"
+        },
+        "revoke": {
+            "sig_ids": [
+                "bd230ee9437e22b7c27c165f44f2c5a0f287a1a277d285f517c9e3679af8bbfb0f"
+            ]
+        },
+        "service": {
+            "hostname": "hackan.xyz",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1450649550,
+    "expire_in": 157680000,
+    "prev": "b1f748ec86fa3605580b2a51bd0524a30afde2ed2ab78faf80ce79e7ccff54f6",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owJ4nK2SbVBUVRjHF0FkFxQqmNGRiq4TjOMG9/1lhyEYELRVEpls0GI5595zl+vi
+7ra7sIukBkklEIEwNmoQvoS82IjohOOACjk5xmwOMlKgluJAig5QGghodZfqQzN9
+7Hw5c575P7/nf/7nVC321+j8zNxs69ZDa1r9eu9BzSZ3TH8RBm1SIWYowixofkN5
+EnK6TBZFwgwYTuCEAAGJM4DhOYrFAY1kRFOQxQlShDxJMgLgWSBAnkccRbO8QAtQ
+liQchwTFyLxM0zjA9JisWM3IYXcoVpeKhQTLEiIl8pCSOEpSYbRAiySDRBlnOAoS
+ogAZAfFqY67N6etQzUHgRLGKTa2pB9O8vf/Q/8++8//CCYLIQUaiWIkESJBpiucA
+jqs9gMcJQvAJnchhBduQqs4FogVYsR16zIEKbBbkS9WpmFXLTsywBYMSSeEICTTF
+IZKEnEhyIsEy6kSZFBmAy6QKJwDJcRLJMzJDcKKAKJYTgMxDKENcxt5W2eq8AkWc
+h/sy+tfsWE/hdtWT3WFz2URbnq/uctmdBp8nV6HdJ3Sjk9D0N8MEFaukPpDaUoAc
+TsVmxQyEKhVdig9K0AzO0gLD4HoMeeyKA5kUn4LhWB5Xl28QKph/VpmjeSTyrAzU
+zBmGxyEJGAJKOEPSgMKBLCESqRlCjpfV6+Ai4gTEiaIsM7TMYr5bvWO1YQaSU40C
+s8pUg7MCV74DYTt0exZEBmj8dJrAhQt8X1ej04b985/ThkL/MK0p579fXXGu57Jy
+vmOPtupIf9AHRV8d85j3/V46U9z0dONFE+o4DhLOKIv9pvpHUsuresT6ZZmnV5XY
+u8s27N1UNz66Kkv0jpSui2ot6dPnGPbyefszpoKX4uiHnKpvN2e8qRvYZUvPDph9
+kPLw6u1Y7Wu6w80Plr+i3xf41pPpyqRH64fc754C3uphdjA7u7IKGF8IvjKZuvWZ
+iROzr/9y7oZhT9yE5rij5tpgzWE3rP5IWTdUm7iiNzNtfcR4ae3VDIt4pCLiTkzl
+RthwM6InJDdMm4UuViS2jAfSMx3GkROjQe1d6UXZVrNmsPf59jj/rOSfjz6Kvjs8
+vPJWzoqDjQmNUwVNwWTy7sf+n+JXTsbOTIw9rgk9K7nv1CWGT3veu3ThVkx0QElk
+eHv5qdKGAn7U4QyLG2YO3je+EX89J2ok1dO1trFptzfu/M7Th16de1870Lo58MOQ
+Jwe+WISmz2QaV/e8SFB3y5Z9nOCJ3/9SbfbY0mNRs9FL2ObI/A29ax1HWz67vaiv
+bLy1pe8T7lLK58nV9V3sSiypc84/u5Y3Gx9eb9/Zavm14fJcPJv78pj3wNdzxRc6
+tVhTftJv+nRvEMO7wz3XfrR33/9y+QDVHWKaLK1M2z65ZFebMnnvWUf72eYtI1nP
+Pe2s39YWenNhm7nup/IyKcU2NPONsb74RmeW97s/AaBN4CM=
+=BfgR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hackan
+
+==================================================================
