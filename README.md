@@ -1,5 +1,5 @@
 #Hi there!  
-This is my github *presentation* page  
+This is my personal *presentation* page  
 
 [Go see it!](https://hackancuba.github.io)  
 
