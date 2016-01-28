@@ -4,7 +4,7 @@ https://keybase.io/hackan
 
 I hereby claim:
 
-  * I am an admin of https://hackan.xyz
+  * I am an admin of https://hackan.net
   * I am hackan (https://keybase.io/hackan) on keybase.
   * I have a public key with fingerprint B166 1C3C 8B3D 73D6 0149  4C25 ECF0 573B 1C9B 59E8
 
@@ -21,22 +21,17 @@ To do so, I am signing this object:
             "uid": "099c7b5d36d2ae9f4387a00949a80119",
             "username": "hackan"
         },
-        "revoke": {
-            "sig_ids": [
-                "bd230ee9437e22b7c27c165f44f2c5a0f287a1a277d285f517c9e3679af8bbfb0f"
-            ]
-        },
         "service": {
-            "hostname": "hackan.xyz",
+            "hostname": "hackan.net",
             "protocol": "https:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1450649550,
+    "ctime": 1454025251,
     "expire_in": 157680000,
-    "prev": "b1f748ec86fa3605580b2a51bd0524a30afde2ed2ab78faf80ce79e7ccff54f6",
-    "seqno": 27,
+    "prev": "80ff52153882ada92b6dfc5e0f8f3c0f6ef673a860fd2a49cb4aa39b4540e66c",
+    "seqno": 32,
     "tag": "signature"
 }
 
@@ -44,30 +39,29 @@ which yields the signature:
 
 -----BEGIN PGP MESSAGE-----
 
-owJ4nK2SbVBUVRjHF0FkFxQqmNGRiq4TjOMG9/1lhyEYELRVEpls0GI5595zl+vi
-7ra7sIukBkklEIEwNmoQvoS82IjohOOACjk5xmwOMlKgluJAig5QGghodZfqQzN9
-7Hw5c575P7/nf/7nVC321+j8zNxs69ZDa1r9eu9BzSZ3TH8RBm1SIWYowixofkN5
-EnK6TBZFwgwYTuCEAAGJM4DhOYrFAY1kRFOQxQlShDxJMgLgWSBAnkccRbO8QAtQ
-liQchwTFyLxM0zjA9JisWM3IYXcoVpeKhQTLEiIl8pCSOEpSYbRAiySDRBlnOAoS
-ogAZAfFqY67N6etQzUHgRLGKTa2pB9O8vf/Q/8++8//CCYLIQUaiWIkESJBpiucA
-jqs9gMcJQvAJnchhBduQqs4FogVYsR16zIEKbBbkS9WpmFXLTsywBYMSSeEICTTF
-IZKEnEhyIsEy6kSZFBmAy6QKJwDJcRLJMzJDcKKAKJYTgMxDKENcxt5W2eq8AkWc
-h/sy+tfsWE/hdtWT3WFz2URbnq/uctmdBp8nV6HdJ3Sjk9D0N8MEFaukPpDaUoAc
-TsVmxQyEKhVdig9K0AzO0gLD4HoMeeyKA5kUn4LhWB5Xl28QKph/VpmjeSTyrAzU
-zBmGxyEJGAJKOEPSgMKBLCESqRlCjpfV6+Ai4gTEiaIsM7TMYr5bvWO1YQaSU40C
-s8pUg7MCV74DYTt0exZEBmj8dJrAhQt8X1ej04b985/ThkL/MK0p579fXXGu57Jy
-vmOPtupIf9AHRV8d85j3/V46U9z0dONFE+o4DhLOKIv9pvpHUsuresT6ZZmnV5XY
-u8s27N1UNz66Kkv0jpSui2ot6dPnGPbyefszpoKX4uiHnKpvN2e8qRvYZUvPDph9
-kPLw6u1Y7Wu6w80Plr+i3xf41pPpyqRH64fc754C3uphdjA7u7IKGF8IvjKZuvWZ
-iROzr/9y7oZhT9yE5rij5tpgzWE3rP5IWTdUm7iiNzNtfcR4ae3VDIt4pCLiTkzl
-RthwM6InJDdMm4UuViS2jAfSMx3GkROjQe1d6UXZVrNmsPf59jj/rOSfjz6Kvjs8
-vPJWzoqDjQmNUwVNwWTy7sf+n+JXTsbOTIw9rgk9K7nv1CWGT3veu3ThVkx0QElk
-eHv5qdKGAn7U4QyLG2YO3je+EX89J2ok1dO1trFptzfu/M7Th16de1870Lo58MOQ
-Jwe+WISmz2QaV/e8SFB3y5Z9nOCJ3/9SbfbY0mNRs9FL2ObI/A29ax1HWz67vaiv
-bLy1pe8T7lLK58nV9V3sSiypc84/u5Y3Gx9eb9/Zavm14fJcPJv78pj3wNdzxRc6
-tVhTftJv+nRvEMO7wz3XfrR33/9y+QDVHWKaLK1M2z65ZFebMnnvWUf72eYtI1nP
-Pe2s39YWenNhm7nup/IyKcU2NPONsb74RmeW97s/AaBN4CM=
-=BfgR
+owJ4nK1Sa1BUZRhedmEFHBLLXDNmoMOAFxb4zv2cVSZMJRyncEho1BmXc/kOHBbO
+Wc4eLrZtiI0Wa5jcikuYdNEJmoYhLwVTDmZNKDawo+BA9CMQpRqzGCXBps6x+tFM
+P/v+fPO93/M87/O88x6NsVmiwwrphe7izuzusEuzvCW/qyvdj/CquA9x+REPfHDB
+EhH6dLdHFhEXAlCAsjyHAZIjGRqnAEdACRI4TwEUE3gGw0iWYyiO5RkG0jhBMSzB
+8pIoAsCjOCkxEkEADnEikqwUQs2ryYpuyPIoRaECLjA8LtK4aIgRLCFgJBQkQNI4
+jwosT7KQMYhFqs9kGOZ4zgfTZNWoGQ/3A3v/gf+ffZf/JceyAs2TIk6JGAdZicAZ
+mgPA4HAMQFHWBPqgpnCl0EAXcYKHU5CAEzFqFbIAzbGaOf71n6ZA3eB5NVVXBbXE
+rOu61+cyefo+rwmshLz7bwk3LyuiMUODUQE1n6wqiAs1kIIum5ooQRIAIzESdSKw
+yitr0C2bCJKmGGAcsw+sMCQZIEkkhpI4w+RhnMixGE+JkkBCYGTGBSBRUKJo3JgN
+kIysBCvwBMfhLG82gBQlIGaqMkVFXDhmGOUKDVGfXKhwerkGkUB0rTUu3BIWbbFH
+WM31skRHxf6zc2ftsZaaR5w2evrJhernQ2MgU1oubJ95uGXtmWvo7dUX8Inp/ZtT
+7vQ8da+u1nOg+83Apb72ezV72g58eCYlZfGLucz4ibuVJV1wXUv/Kn1Jxujbn7Ql
+Bg9PzFZGH3f4HczXp/r8P+fGNCenNr1wekdofr7w/A9aYt+cUvZRw/VHfePFtmcX
+PHNKb2CxseLU4nOVeWmR55PAObF+1/BS79YdkzcLlkn933/jnezLt0QQmzI240Px
+t+8/VBd+MThKDxJXgtSVO+XJYXHfTle1frAtvV7dOm9ttOe121/mT956pQfPajux
+bpnNcS7DWvxGbJmHPR7cW30VPeFPWTHf/9XykaSx9oKehIERMQQvny3NO3hs/c6X
+EG2jO+5uPZpgSVhSPtFhTY3Csqo+bpzJLbqcPy1mewNNWm/Ejx0lb62e2FWjpNfG
+Hmzv3zO7s2lbVDNY706Tt4/bIl/M+Wy3dOiZaa3WkT2F9K7Yf23Trz+l3iDtwFG9
+JSvxCZRre12oqege8g8vPZqTs7f05GzDp087xtYcUQ9tsQ1er0FDY/E3oSuzk3KO
+j1tDJe8k/xLzalrmyNChDUfWVA2stLe85swYJQeoKfWP062R36HvdrwfWNW2cS6+
+Un9s5lZK+X3P51PDwbDff1s5eay1M3TxQlLOho7cL+ODne7mmRvv1ZUVDPbtXht+
+NapBePxPVLmzWA==
+=bkyP
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
@@ -76,3 +70,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/hackan
 
 ==================================================================
+
