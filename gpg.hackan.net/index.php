@@ -1,5 +1,5 @@
 <?php
-cont KEYFILE = '0xECF0573B1C9B59E8.gpg';
+const KEYFILE = '0xECF0573B1C9B59E8.gpg';
 
 $download = isset($_GET['d']) ?: isset($_GET['f']);
 $response = 'Unknow error';
