@@ -6,18 +6,16 @@ I hereby claim:
 
   * I am an admin of https://hackan.net
   * I am hackan (https://keybase.io/hackan) on keybase.
-  * I have a public key with fingerprint B166 1C3C 8B3D 73D6 0149  4C25 ECF0 573B 1C9B 59E8
+  * I have a public key ASClVoZXLVRXbbPLGBaUhBuXUqqso1Cz9_Tcnasvn-CD5Ao
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "01019ba205a587360a4efe43b6012cb82259a86a9b88e73468949bfdd00b135f8f440a",
-            "fingerprint": "b1661c3c8b3d73d601494c25ecf0573b1c9b59e8",
+            "eldest_kid": "0120a55686572d54576db3cb181694841b9752aaaca350b3f7f4dc9dab2f9fe083e40a",
             "host": "keybase.io",
-            "key_id": "ecf0573b1c9b59e8",
-            "kid": "01019ba205a587360a4efe43b6012cb82259a86a9b88e73468949bfdd00b135f8f440a",
+            "kid": "0120a55686572d54576db3cb181694841b9752aaaca350b3f7f4dc9dab2f9fe083e40a",
             "uid": "099c7b5d36d2ae9f4387a00949a80119",
             "username": "hackan"
         },
@@ -28,41 +26,25 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1454025251,
-    "expire_in": 157680000,
-    "prev": "80ff52153882ada92b6dfc5e0f8f3c0f6ef673a860fd2a49cb4aa39b4540e66c",
-    "seqno": 32,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1484083470,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1484083420,
+        "hash": "f40e932ebdbaf7a0039ef2819d6b887af83a64b7557cf3cd349802c7e728f319a1834ba97ed19b3c7484466b94dccf7991d0e1577949616c66b2cac1255a54db",
+        "seqno": 794233
+    },
+    "prev": "6b3231692cc763687fda762ffe996b57527bd1797ec09749f275d7587ab9fa63",
+    "seqno": 50,
     "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owJ4nK1Sa1BUZRhedmEFHBLLXDNmoMOAFxb4zv2cVSZMJRyncEho1BmXc/kOHBbO
-Wc4eLrZtiI0Wa5jcikuYdNEJmoYhLwVTDmZNKDawo+BA9CMQpRqzGCXBps6x+tFM
-P/v+fPO93/M87/O88x6NsVmiwwrphe7izuzusEuzvCW/qyvdj/CquA9x+REPfHDB
-EhH6dLdHFhEXAlCAsjyHAZIjGRqnAEdACRI4TwEUE3gGw0iWYyiO5RkG0jhBMSzB
-8pIoAsCjOCkxEkEADnEikqwUQs2ryYpuyPIoRaECLjA8LtK4aIgRLCFgJBQkQNI4
-jwosT7KQMYhFqs9kGOZ4zgfTZNWoGQ/3A3v/gf+ffZf/JceyAs2TIk6JGAdZicAZ
-mgPA4HAMQFHWBPqgpnCl0EAXcYKHU5CAEzFqFbIAzbGaOf71n6ZA3eB5NVVXBbXE
-rOu61+cyefo+rwmshLz7bwk3LyuiMUODUQE1n6wqiAs1kIIum5ooQRIAIzESdSKw
-yitr0C2bCJKmGGAcsw+sMCQZIEkkhpI4w+RhnMixGE+JkkBCYGTGBSBRUKJo3JgN
-kIysBCvwBMfhLG82gBQlIGaqMkVFXDhmGOUKDVGfXKhwerkGkUB0rTUu3BIWbbFH
-WM31skRHxf6zc2ftsZaaR5w2evrJhernQ2MgU1oubJ95uGXtmWvo7dUX8Inp/ZtT
-7vQ8da+u1nOg+83Apb72ezV72g58eCYlZfGLucz4ibuVJV1wXUv/Kn1Jxujbn7Ql
-Bg9PzFZGH3f4HczXp/r8P+fGNCenNr1wekdofr7w/A9aYt+cUvZRw/VHfePFtmcX
-PHNKb2CxseLU4nOVeWmR55PAObF+1/BS79YdkzcLlkn933/jnezLt0QQmzI240Px
-t+8/VBd+MThKDxJXgtSVO+XJYXHfTle1frAtvV7dOm9ttOe121/mT956pQfPajux
-bpnNcS7DWvxGbJmHPR7cW30VPeFPWTHf/9XykaSx9oKehIERMQQvny3NO3hs/c6X
-EG2jO+5uPZpgSVhSPtFhTY3Csqo+bpzJLbqcPy1mewNNWm/Ejx0lb62e2FWjpNfG
-Hmzv3zO7s2lbVDNY706Tt4/bIl/M+Wy3dOiZaa3WkT2F9K7Yf23Trz+l3iDtwFG9
-JSvxCZRre12oqege8g8vPZqTs7f05GzDp087xtYcUQ9tsQ1er0FDY/E3oSuzk3KO
-j1tDJe8k/xLzalrmyNChDUfWVA2stLe85swYJQeoKfWP062R36HvdrwfWNW2cS6+
-Un9s5lZK+X3P51PDwbDff1s5eay1M3TxQlLOho7cL+ODne7mmRvv1ZUVDPbtXht+
-NapBePxPVLmzWA==
-=bkyP
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpVaGVy1UV22zyxgWlIQbl1KqrKNQs/f03J2rL5/gg+QKp3BheWxvYWTFAvF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTU1Njg2NTcyZDU0NTc2ZGIzY2IxODE2OTQ4NDFiOTc1MmFhYWNhMzUwYjNmN2Y0ZGM5ZGFiMmY5ZmUwODNlNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTU1Njg2NTcyZDU0NTc2ZGIzY2IxODE2OTQ4NDFiOTc1MmFhYWNhMzUwYjNmN2Y0ZGM5ZGFiMmY5ZmUwODNlNDBhIiwidWlkIjoiMDk5YzdiNWQzNmQyYWU5ZjQzODdhMDA5NDlhODAxMTkiLCJ1c2VybmFtZSI6ImhhY2thbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiaGFja2FuLm5ldCIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg0MDgzNDcwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODQwODM0MjAsImhhc2giOiJmNDBlOTMyZWJkYmFmN2EwMDM5ZWYyODE5ZDZiODg3YWY4M2E2NGI3NTU3Y2YzY2QzNDk4MDJjN2U3MjhmMzE5YTE4MzRiYTk3ZWQxOWIzYzc0ODQ0NjZiOTRkY2NmNzk5MWQwZTE1Nzc5NDk2MTZjNjZiMmNhYzEyNTVhNTRkYiIsInNlcW5vIjo3OTQyMzN9LCJwcmV2IjoiNmIzMjMxNjkyY2M3NjM2ODdmZGE3NjJmZmU5OTZiNTc1MjdiZDE3OTdlYzA5NzQ5ZjI3NWQ3NTg3YWI5ZmE2MyIsInNlcW5vIjo1MCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECy32MicMb0ELUk0Ept331MgtQjObieYzVtSK9QzV+lLPPDMcbThyyTojZsxzLjy2EKOwGGg0NlXoJ891hMPTUKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgbjNQtX3SUgg9+DhCqZyY5lz2o8Ab8nTRTCSnd9AjEcOjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -70,4 +52,3 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/hackan
 
 ==================================================================
-
