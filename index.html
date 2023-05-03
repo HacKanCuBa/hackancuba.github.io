@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="/vendor/fontawesome/css/solid.min.css?v=5.9.0"/>
     <link rel="stylesheet" href="/vendor/bootstrap/css/bootstrap.min.css?v=4.3.1"/>
     <link rel="stylesheet" href="/assets/css/cover.min.css?cache=20180725"/>
-    <link rel="stylesheet" href="/assets/css/main.css?cache=20190630"/>
+    <link rel="stylesheet" href="/assets/css/main.css?cache=20230502"/>
 
     <meta name="apple-mobile-web-app-capable" content="yes" />
 
@@ -33,7 +33,7 @@
     <header class="masthead mb-auto">
         <div class="inner">
             <img class="masthead-brand" src="/assets/imgs/title.png" alt="" width="166" height="68"/>
-            <nav class="nav nav-masthead justify-content-center">
+            <nav class="nav nav-masthead justify-content-center" id="nav">
                 <a class="nav-link active"
                    href="#"
                    title="Home">
@@ -55,14 +55,14 @@
                     <span class="fab fa-github" aria-hidden="true"></span>
                 </a>
                 <a class="nav-link"
-                   href="https://git.rlab.be/hackan"
-                   title="R'lyeh Gitlab">
-                    <span class="fab fa-git-alt" aria-hidden="true"></span>
-                </a>
-                <a class="nav-link"
                    href="https://gitlab.com/hackancuba"
                    title="Gitlab">
                     <span class="fab fa-gitlab" aria-hidden="true"></span>
+                </a>
+                <a class="nav-link"
+                   href="https://codeberg.org/hackancuba"
+                   title="Codeberg">
+                    <span class="fab fa-git-alt" aria-hidden="true"></span>
                 </a>
                 <a class="nav-link"
                    href="https://gpg.hackan.net"
@@ -80,17 +80,25 @@
 
     <main role="main" class="inner cover">
         <h1 class="cover-heading">:~$ whoami</h1>
-        <p class="lead">I'm Iván, known in the bits world as HacKan. I'm passionate about electronics and informatics. I enjoy gaming, coding, designing stuff, sometimes building stuff, travelling, skiing, making devices work the way I want to, whether they were designed to do so or not... I also love wine :)</p>
+        <p class="lead">I'm Iván, known in the bits world as HacKan. I'm passionate about electronics, and informatics: I make ends meet as a Software Engineer. I enjoy gaming, coding, designing stuff, sometimes building stuff, travelling, skiing, making devices work the way I want to, whether they were designed to do so, or not... I also love wine :)</p>
     </main>
 
     <div class="inner cover">
-        <h1 class="cover-heading">:~$ gpg | mail hackan</h1>
-        <p class="lead">My GPG fingerprint is: <a class="link-shadow" href="https://sks-keyservers.net/pks/lookup?op=vindex&search=0x35710D312FDE468B" title="Grab the key!" >05FE C70F 842D 33F6 0D6B E6C0 3571 0D31 2FDE 468B</a></p>
-        <p>So the ID is: <a class="link" href="https://gpg.hackan.net/key/35710D312FDE468B">0x35710D312FDE468B</a></p>
+        <h1 class="cover-heading">:~$ age | mail hackan</h1>
+        <p class="lead">My <a class="link" href="https://age-encryption.org/" title="simple, modern, and secure file encryption tool">age</a> fingerprint is: <code class="shadow-text" title="The time of PGP is over..." >age1vfa2nklpxke3ac8v5tcp887zv4t47mcscdjslv476l6499mnwfmsnxra9e</code></p>
+        <p>So I <a class="link" href="https://gist.github.com/HacKanCuBa/afe0073fe35fddf01642220acd4cde17">finally ditched PGP</a>. Prefer other <em title="As in, encrypted and authenticated">secure</em> contact methods anyway, rather than email.</p>
     </div>
 
     <div class="inner cover">
-        <p class="lead">You can contact me by <a class="link" href="" title="e-mail address">e-mail</a>, <a class="link" href="https://gpg.hackan.net/key/406861636B616E3A726C61622E6265" title="Matrix">Matrix</a>, <a class="link" href="https://gpg.hackan.net/key/B3D6A0E6699801FE" title="XMPP OTR"> XMPP OTR</a> or <a class="link" href="https://twitter.com/hackancuba" title="Twitter">Twitter</a>.</p>
+        <h1 class="cover-heading">:~$ whereis hackan</h1>
+        <ul class="list-centered-iconless">
+            <li>
+                <span class="fas fa-lock" aria-hidden="true" title="secure"></span><a class="link" href="https://gpg.hackan.net/key/406861636B616E3A726C61622E6265" title="@hackan:mozilla.org">Matrix</a>: <code class="shadow-text" title="@hackan:mozilla.org">@hackan:mozilla.org</code>
+            </li>
+            <li>
+                <span class="fas fa-lock-open" aria-hidden="true" title="insecure"></span><a class="link" href="https://twitter.com/hackancuba" title="@hackancuba">Twitter</a>: <code class="shadow-text" title="@hackancuba">@hackancuba</code>
+            </li>
+        </ul>
     </div>
 
     <footer class="mastfoot mt-auto">

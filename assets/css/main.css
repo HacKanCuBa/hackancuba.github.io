@@ -1,6 +1,6 @@
 /** main */
 
-.link-shadow {
+.shadow-text {
 	color: inherit;
 	text-decoration: none;
 	padding: 0 0.1em;
@@ -11,8 +11,9 @@
 	-moz-transition: 0.5s;
 	-o-transition: 0.5s;
 	transition: 0.5s;
+	overflow-wrap: break-word;
 }
-.link-shadow:hover, .link-shadow:focus {
+.shadow-text:hover, .shadow-text:focus {
     background: rgba(227, 227, 227, 0.80) none repeat scroll 0% 0%;
 	text-shadow: -1px -1px 2px rgba(100,100,100,0.5);
 	text-decoration: none;
@@ -20,5 +21,33 @@
 
 .link {
 	font-style: italic;
+	text-decoration: underline;
 }
 
+.cover-heading {
+	padding-top: 1em;
+}
+
+.masthead-brand {
+	margin-bottom: 15px;
+}
+
+.list-centered-iconless {
+    text-align: left;
+    /* col-md-10 */
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+    /* col */
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    /* offset-md-5 */
+    margin-left: 30%;
+}
+.list-centered-iconless li {
+    list-style: none;
+}
+.list-centered-iconless li > span {
+    width: 7%;
+}

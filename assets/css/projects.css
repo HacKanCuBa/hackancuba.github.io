@@ -1,25 +1,5 @@
 /* /projects */
 
-.projects-list {
-    text-align: left;
-    /* col-md-10 */
-    flex: 0 0 83.333333%;
-    max-width: 83.333333%;
-    /* col */
-    position: relative;
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    /* offset-md-5 */
-    margin-left: 41.666667%;
-}
-.projects-list li {
-    list-style: none;
-}
-.projects-list li > span {
-    width: 5%;
-}
-
 .files p {
     font-size: 1.1rem;
 }
